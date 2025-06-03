@@ -12,4 +12,5 @@
     }
     ?>
     <li class="list-group-item list-group-item-action"><a class="nav-link" href="logout.php">Logout</a></li>
+    <li class="list-group-item list-group-item-action"><a class="nav-link" href="?page=matakuliah-show">Data Mata Kuliah</a></li>
 </ul>
