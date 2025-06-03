@@ -51,7 +51,7 @@
                         <a class="nav-link" href="?page=home">Beranda</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="?page=profil">Profil Penulis</a>
+                        <a class="nav-link" href="?page=profile">Profil Penulis</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
